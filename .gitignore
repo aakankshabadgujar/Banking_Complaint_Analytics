@@ -1,0 +1,58 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Personal Notes
+notes.md
+interview.md
+Interview.md
+
+# Data
+data/raw/*
+data/processed/*
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Power BI
+powerbi/Dashboard.pbix
+*.pbix.autosave
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Data
+data/raw/*
+data/cleaned/*
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
+
+# Database
+*.db
+
+# Personal
+notes.md
+interview.md
+
+# Power BI
+powerbi/Dashboard.pbix
+*.pbix.autosave
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
